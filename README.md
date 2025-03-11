@@ -1,4 +1,5 @@
-Scraping WhatsApp Stories Using ChromeDriver
+<b>Scraping WhatsApp Stories Using ChromeDriver</b>
+<br>
 Prerequisites:
 Chrome Driver: Ensure you have the correct version of ChromeDriver for your operating system.
 
